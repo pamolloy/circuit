@@ -1,0 +1,3 @@
+[submodule "accelerometer/Arduino-MMA7361-library"]
+	path = accelerometer/Arduino-MMA7361-library
+	url = git@github.com:jeroendoggen/Arduino-MMA7361-library.git
